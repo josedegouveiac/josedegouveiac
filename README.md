@@ -4,13 +4,13 @@
 <h3> 👨🏻‍💻 Sobre Mi</h3>
 
 - 🔭 &nbsp; soy un apasionado en las tecnologias.
-- 🤔 &nbsp; Explorar nueva tecnologias y aprender de ellas se ha    convertido en una pasion durante los ultimos años.
+- 🤔 &nbsp; Explorar nuevas tecnologias y aprender de ellas se ha convertido en una pasion durante los ultimos años.
 - 🎓 &nbsp; Antes de incursionar en el mundo de la programacion estudie ingenieria en telecomunicaciones.
 - 💼 &nbsp;  soy desarrollador Full Stack Orientado al Front End.
 
 <h3>🛠 Tecnolgias</h3>
-
-<img align='center' src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
